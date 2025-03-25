@@ -5,7 +5,7 @@ Some of these are a little grainy when viewed on the pawnagotchi, but I think th
 There are extra images in the directories, in case you want to swap out some of them.
 I also included my Photoshop document, in case you want to edit them further in Photoshop.
 
-I use Jayofelony's image for my pwnagotchi:
+I use Jayofelony's image for my pwnagotchi:  
 https://github.com/jayofelony/pwnagotchi 
 
 I used this video to help me get the images into the custom-faces directory, and to set up the config .toml file.
