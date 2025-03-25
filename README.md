@@ -10,7 +10,7 @@ https://github.com/jayofelony/pwnagotchi
 I used this video to help me get the images into the custom-faces directory, and to set up the config .toml file.
 https://www.youtube.com/watch?v=X-5jN0WjurQ 
 
-Along with these tutorials.
+Along with these tutorials.  
 https://github.com/roodriiigooo/PWNAGOTCHI-CUSTOM-FACES-MOD 
 https://pwnagotchi.org/customization/custom-faces-mod/index.html 
 
